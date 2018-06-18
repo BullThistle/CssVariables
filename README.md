@@ -1,3 +1,3 @@
-Project three for the vanilla JavaScript 30 day challange.
+Project three for the vanilla JavaScript 30 day challenge.
 
 https://bullthistle.github.io/CssVariables
